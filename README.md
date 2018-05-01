@@ -1,6 +1,10 @@
 # MyWork
 All the programs and projects created as student.
 
+# Finance
+
+Finance is a virtual trading web app that allows user to check real stock's actual prices and portfolio's values, it also lets user buy and sell stocks.
+
 # Hangman
 
 Hangman is a game for two in which one player tries to guess the letters of a word, the other player recording failed attempts by drawing a gallows and someone hanging on it, line by line.
