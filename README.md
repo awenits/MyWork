@@ -13,3 +13,7 @@ Here the other player is the program itself. I have created it as a part of MITx
 # US_Bikeshare_analysis_project_udacity
 
 In this project, I used Python to explore data related to bikeshare systems for three major bikeshare systems in the United States. I performed data wrangling to unify the format of data from the three systems and write code to compute descriptive statistics. Also I used some libraries for visualisation. Project is done in the jyupiter notebook, I have also added the data required and generated in data.zip file. Also the html version of notebook is provided.
+
+# Similarities
+
+A Web app that determines whether two files are identical and highlights similarities across files. This can be used as plagiarism checker.
