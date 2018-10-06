@@ -17,3 +17,7 @@ In this project, I used Python to explore data related to bikeshare systems for 
 # Similarities
 
 A Web app that determines whether two files are identical and highlights similarities across files. This can be used as plagiarism checker.
+
+# Twitter Sentiment Analyzer
+
+It is a web application built using Flask (Web Microframework) with python. It is used to determine whether user’s tweets are positive, negative or neutral. The project analyses recent 200 tweets of a user and generates pie chart displaying positive, negative and neutral percentage of tweets. 
